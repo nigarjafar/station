@@ -11,6 +11,13 @@
 	padding: 0 !important;
 }
 
+table.info tr td:first-child{
+	font-weight: bold;
+}
+
+h2{
+	padding-bottom: 30px;
+}
 
 
 
